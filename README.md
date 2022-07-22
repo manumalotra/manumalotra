@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manumalotra
-- 👀 I’m interested in business, technology, and working with people!
-- 🌱 I’m currently doing a Bachelor of Commerce (BCom) degree at the University of Alberta, and I'm learning about technology and programming by myself through online resources.
+- 👀 I’m interested in computer science, engineering, technology, and working with people!
+- 🌱 I'm a student going into my 3rd year at the University of Alberta. I am also in the middle of switching from a business degree to a computer science degree, and I'm only taking CS courses this year.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
